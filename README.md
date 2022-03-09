@@ -7,3 +7,12 @@
 With this setup, you'll learn how to ingest data from the NASA API into Dynatrace. We will use `dynatrace_ingest` to ingest these metrics to see which asteroids are near us and potentially devasting by continuously monitoring them in Dynatrace.
 
 ### Prerequisites
+  
+### Step 1: 
+  
+### Step 2: 
+  
+### Step 3:
+
+### Step 4:
+ 
